@@ -26,7 +26,7 @@ This system employs several agents working together:
 
 **Note**: the system simulates trading decisions, it does not actually trade.
 
-[![LinkedIn Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://www.linkedin.com/in/-amitcohen/)
+[![LinkedIn Follow](https://img.shields.io/twitter/follow/amitcohen?style=social)](https://www.linkedin.com/in/-amitcohen/)
 
 ## Disclaimer
 
